@@ -1,5 +1,25 @@
 {
   "devDependencies": {
+    "nodemon": "^3.0.1",
     "prettier": "^3.0.3"
-  }
+  },
+  "name": "30daysjavascript",
+  "description": "Esse repositório foi criado para realizar o desafio 30daysJavaScript - https://30dayjavascript.js.org",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon variable.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipeoliveira93/30daysJavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipeoliveira93/30daysJavascript/issues"
+  },
+  "homepage": "https://github.com/filipeoliveira93/30daysJavascript#readme"
 }
