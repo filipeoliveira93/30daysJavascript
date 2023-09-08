@@ -1,2 +1,2 @@
 # 30daysJavascript
-Esse repositório foi criado para realizar o desafio 30daysJS - https://30dayjavascript.js.org 
+Esse repositório foi criado para realizar o desafio 30daysJavaScript - https://30dayjavascript.js.org 
