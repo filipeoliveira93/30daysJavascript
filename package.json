@@ -8,7 +8,7 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "nodemon variable.js"
+		"start": "nodemon day-03/day03-lvl02.js"
 	},
 	"repository": {
 		"type": "git",
